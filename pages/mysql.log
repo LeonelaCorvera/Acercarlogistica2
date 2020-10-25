@@ -1,0 +1,518 @@
+2020-05-31 00:55:22
+SELECT * FROM servicio where idServicio=1;
+2020-05-31 00:56:18
+SELECT * FROM servicio where idServicio=1;
+2020-05-31 00:58:00
+SELECT * FROM servicio where idServicio=1;
+2020-05-31 01:02:20
+SELECT * FROM servicio where idServicio=1;
+2020-05-31 01:06:15
+SELECT * FROM servicio where idServicio=1;
+2020-05-31 01:07:43
+SELECT * FROM servicio where idServicio=2;
+2020-05-31 01:08:30
+SELECT * FROM servicio where idServicio=3;
+2020-05-31 01:08:52
+SELECT * FROM servicio where idServicio=2;
+2020-05-31 01:09:03
+SELECT * FROM servicio where idServicio=4;
+2020-05-31 01:19:44
+SELECT * FROM servicio where idServicio=3;
+2020-05-31 01:20:24
+SELECT * FROM servicio where idServicio=2;
+2020-05-31 01:21:29
+SELECT * FROM servicio where idServicio=3;
+2020-05-31 01:58:27
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-05-31 01:58:27
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-05-31 01:58:27
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 01:58:39
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-05-31 01:58:39
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-05-31 01:58:39
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 03:41:27
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-05-31 03:41:27
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-05-31 03:41:27
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 03:42:36
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-05-31 03:42:36
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-05-31 03:42:37
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 03:44:08
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-05-31 03:44:08
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-05-31 03:44:08
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 03:45:23
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-05-31 03:45:23
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-05-31 03:45:23
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 03:48:10
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-05-31 03:48:10
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-05-31 03:48:10
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 03:48:45
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-05-31 03:48:45
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-05-31 03:48:45
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 03:49:28
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-05-31 03:49:28
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-05-31 03:49:28
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 03:50:42
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-05-31 03:50:42
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-05-31 03:50:42
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 03:51:38
+SELECT * FROM vehiculo where idVehiculo=2;
+2020-05-31 03:51:38
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 03:51:38
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 03:51:43
+SELECT * FROM vehiculo where idVehiculo=2;
+2020-05-31 03:51:43
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 03:51:43
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 03:53:30
+SELECT * FROM vehiculo where idVehiculo=2;
+2020-05-31 03:53:30
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 03:53:30
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 03:54:22
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-05-31 03:54:22
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-05-31 03:54:22
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 03:54:44
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-05-31 03:54:44
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-05-31 03:54:44
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 03:55:36
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-05-31 03:55:36
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-05-31 03:55:36
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 05:13:54
+SELECT * FROM vehiculo where idVehiculo=4;
+2020-05-31 05:13:54
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=2;
+2020-05-31 05:13:54
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 05:15:18
+SELECT * FROM vehiculo where idVehiculo=4;
+2020-05-31 05:15:18
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=2;
+2020-05-31 05:15:18
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 05:18:17
+SELECT * FROM vehiculo where idVehiculo=2;
+2020-05-31 05:18:17
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 05:18:17
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 05:19:17
+SELECT * FROM vehiculo where idVehiculo=2;
+2020-05-31 05:19:17
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 05:19:17
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 05:39:30
+SELECT * FROM vehiculo where idVehiculo=2;
+2020-05-31 05:39:30
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 05:39:30
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 05:39:43
+SELECT * FROM vehiculo where idVehiculo=3;
+2020-05-31 05:39:43
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 05:39:43
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 05:40:45
+SELECT * FROM vehiculo where idVehiculo=4;
+2020-05-31 05:40:45
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=2;
+2020-05-31 05:40:45
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 05:53:27
+SELECT * FROM vehiculo where idVehiculo=3;
+2020-05-31 05:53:27
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 05:53:27
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 05:56:10
+SELECT * FROM vehiculo where idVehiculo=5;
+2020-05-31 05:56:10
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 05:56:10
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 05:58:34
+SELECT * FROM vehiculo where idVehiculo=4;
+2020-05-31 05:58:34
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=2;
+2020-05-31 05:58:34
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 05:59:19
+SELECT * FROM vehiculo where idVehiculo=2;
+2020-05-31 05:59:19
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 05:59:19
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 06:02:29
+SELECT * FROM vehiculo where idVehiculo=3;
+2020-05-31 06:02:29
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 06:02:29
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 06:04:38
+SELECT * FROM vehiculo where idVehiculo=3;
+2020-05-31 06:04:38
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 06:04:38
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 06:06:45
+SELECT * FROM vehiculo where idVehiculo=3;
+2020-05-31 06:06:45
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 06:06:45
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 06:07:17
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-05-31 06:07:17
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-05-31 06:07:17
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 06:07:34
+SELECT * FROM vehiculo where idVehiculo=3;
+2020-05-31 06:07:34
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 06:07:34
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 06:08:50
+SELECT * FROM vehiculo where idVehiculo=2;
+2020-05-31 06:08:50
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 06:08:50
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 06:16:59
+SELECT * FROM vehiculo where idVehiculo=2;
+2020-05-31 06:16:59
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 06:16:59
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 06:17:39
+SELECT * FROM vehiculo where idVehiculo=2;
+2020-05-31 06:17:39
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 06:17:39
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 06:22:57
+SELECT * FROM vehiculo where idVehiculo=2;
+2020-05-31 06:22:57
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 06:22:57
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 06:27:18
+SELECT * FROM vehiculo where idVehiculo=2;
+2020-05-31 06:27:18
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 06:27:18
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 06:29:43
+SELECT * FROM vehiculo where idVehiculo=3;
+2020-05-31 06:29:43
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 06:29:43
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 06:29:52
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-05-31 06:29:52
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-05-31 06:29:52
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 06:32:42
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-05-31 06:32:42
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-05-31 06:32:43
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 15:57:32
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-05-31 15:57:32
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-05-31 15:57:32
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 15:58:35
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-05-31 15:58:35
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-05-31 15:58:36
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 15:59:24
+SELECT * FROM vehiculo where idVehiculo=2;
+2020-05-31 15:59:24
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 15:59:24
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 15:59:45
+SELECT * FROM vehiculo where idVehiculo=2;
+2020-05-31 15:59:45
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 15:59:45
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 16:01:44
+SELECT * FROM vehiculo where idVehiculo=2;
+2020-05-31 16:01:44
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 16:01:44
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 16:16:13
+SELECT * FROM vehiculo where idVehiculo=2;
+2020-05-31 16:16:13
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 16:16:13
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 16:19:33
+SELECT * FROM vehiculo where idVehiculo=2;
+2020-05-31 16:19:33
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 16:19:33
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 16:24:13
+SELECT * FROM vehiculo where idVehiculo=2;
+2020-05-31 16:24:13
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 16:24:13
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 16:26:26
+SELECT * FROM vehiculo where idVehiculo=2;
+2020-05-31 16:26:26
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 16:26:26
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 16:29:25
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-05-31 16:29:25
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-05-31 16:29:25
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 16:29:40
+SELECT * FROM vehiculo where idVehiculo=2;
+2020-05-31 16:29:40
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 16:29:40
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 17:12:32
+SELECT * FROM chofer where idChofer=2;
+2020-05-31 17:14:11
+SELECT * FROM chofer where idChofer=2;
+2020-05-31 17:19:43
+SELECT * FROM vehiculo where idVehiculo=2;
+2020-05-31 17:19:43
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 17:19:43
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 17:19:55
+SELECT * FROM vehiculo where idVehiculo=2;
+2020-05-31 17:19:55
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=3;
+2020-05-31 17:19:55
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-05-31 17:46:14
+SELECT * FROM cliente where idcliente=5;
+2020-05-31 17:46:32
+SELECT * FROM cliente where idcliente=1;
+2020-06-02 00:28:35
+SELECT * FROM chofer where idChofer=1;
+2020-06-02 00:28:42
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-06-02 00:28:42
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-06-02 00:28:42
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-06-02 01:15:08
+SELECT * FROM usuario where idusuario='';
+2020-06-02 01:15:51
+SELECT * FROM usuario where idusuario='';
+2020-06-02 01:17:21
+SELECT * FROM usuario where idusuario='';
+2020-06-02 01:17:50
+SELECT * FROM usuario where idusuario='';
+2020-06-02 01:18:03
+SELECT * FROM usuario where idusuario='';
+2020-06-02 01:18:15
+SELECT * FROM usuario where idusuario='';
+2020-06-02 01:18:26
+SELECT * FROM usuario where idusuario='';
+2020-06-02 01:20:26
+SELECT * FROM usuario where idusuario='';
+2020-06-02 01:31:32
+SELECT * FROM usuario where idusuario='';
+2020-06-07 20:52:09
+SELECT * FROM usuario where idusuario='le';
+2020-06-10 01:36:50
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-06-10 01:36:50
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-06-10 01:36:50
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-08-23 02:10:20
+SELECT * FROM servicio where idServicio=1;
+2020-08-23 02:10:41
+SELECT * FROM servicio where idServicio=1;
+2020-08-23 02:12:47
+SELECT * FROM servicio where idServicio=1;
+2020-08-23 02:12:53
+SELECT * FROM servicio where idServicio=1;
+2020-08-23 02:17:54
+SELECT * FROM servicio where idServicio=1;
+2020-08-23 02:19:14
+SELECT * FROM servicio where idServicio=1;
+2020-08-23 02:19:42
+SELECT * FROM servicio where idServicio=1;
+2020-08-23 02:20:17
+SELECT * FROM servicio where idServicio=1;
+2020-08-23 02:20:29
+SELECT * FROM servicio where idServicio=1;
+2020-08-23 02:20:49
+SELECT * FROM servicio where idServicio=1;
+2020-08-23 02:22:00
+SELECT * FROM servicio where idServicio=1;
+2020-08-23 02:22:06
+SELECT * FROM servicio where idServicio=1;
+2020-08-23 02:22:15
+SELECT * FROM servicio where idServicio=6;
+2020-08-23 02:22:24
+SELECT * FROM servicio where idServicio=3;
+2020-08-23 02:22:32
+SELECT * FROM servicio where idServicio=2;
+2020-08-23 02:22:39
+SELECT * FROM servicio where idServicio=1;
+2020-08-29 03:29:03
+SELECT * FROM servicio where idServicio=1;
+2020-08-29 03:31:38
+SELECT * FROM servicio where idServicio=1;
+2020-08-29 03:35:42
+SELECT * FROM servicio where idServicio=1;
+2020-08-29 04:49:43
+SELECT * FROM servicio where idServicio=1;
+2020-08-29 04:50:10
+SELECT * FROM servicio where idServicio=1;
+2020-08-29 04:52:19
+SELECT * FROM servicio where idServicio=1;
+2020-08-29 05:21:56
+SELECT * FROM servicio where idServicio=1;
+2020-08-29 05:31:45
+SELECT * FROM servicio where idServicio=1;
+2020-08-29 05:34:18
+SELECT * FROM servicio where idServicio=1;
+2020-08-29 05:35:18
+SELECT * FROM servicio where idServicio=1;
+2020-08-29 05:36:00
+SELECT * FROM servicio where idServicio=1;
+2020-08-29 05:36:35
+SELECT * FROM servicio where idServicio=1;
+2020-08-29 05:37:45
+SELECT * FROM servicio where idServicio=1;
+2020-08-29 05:41:08
+SELECT * FROM servicio where idServicio=1;
+2020-08-29 05:43:19
+SELECT * FROM servicio where idServicio=1;
+2020-08-29 05:43:23
+SELECT * FROM servicio where idServicio=1;
+2020-08-29 05:45:27
+SELECT * FROM servicio where idServicio=1;
+2020-08-29 05:45:50
+SELECT * FROM servicio where idServicio=1;
+2020-08-29 05:50:37
+SELECT * FROM servicio where idServicio=1;
+2020-08-29 06:01:07
+SELECT * FROM servicio where idServicio=5;
+2020-09-27 07:01:24
+SELECT * FROM servicio where idServicio=1;
+2020-09-27 07:04:54
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-09-27 07:04:54
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-09-27 07:04:54
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-09-27 07:05:25
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-09-27 07:05:25
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-09-27 07:05:25
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-09-27 07:05:32
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-09-27 07:05:32
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-09-27 07:05:32
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-09-27 07:05:46
+SELECT * FROM servicio where idServicio=4;
+2020-09-27 07:05:54
+SELECT * FROM servicio where idServicio=4;
+2020-09-27 07:09:25
+SELECT * FROM servicio where idServicio=4;
+2020-09-27 07:21:41
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-09-27 07:21:41
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-09-27 07:21:41
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-09-27 07:23:12
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-09-27 07:23:12
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-09-27 07:23:12
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-09-27 07:23:41
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-09-27 07:23:41
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-09-27 07:23:41
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-09-27 22:25:41
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-09-27 22:25:41
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-09-27 22:25:41
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-09-27 22:25:55
+SELECT * FROM vehiculo where idVehiculo=1;
+2020-09-27 22:25:55
+SELECT * FROM tipodevehiculo where idTipoDeVehiculo=1;
+2020-09-27 22:25:55
+SELECT * FROM acercarlogistca.tipodevehiculo;
+2020-09-28 01:12:23
+SELECT * FROM chofer where idChofer=1;
+2020-09-28 01:12:32
+SELECT * FROM chofer where idChofer=2;
+2020-09-28 01:12:54
+SELECT * FROM chofer where idChofer=2;
